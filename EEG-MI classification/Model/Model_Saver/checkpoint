@@ -1,0 +1,6 @@
+model_checkpoint_path: "Ite_500"
+all_model_checkpoint_paths: "Ite_100"
+all_model_checkpoint_paths: "Ite_200"
+all_model_checkpoint_paths: "Ite_300"
+all_model_checkpoint_paths: "Ite_400"
+all_model_checkpoint_paths: "Ite_500"
