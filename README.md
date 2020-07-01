@@ -7,4 +7,4 @@ Including some machine learning and artificial intellegent examples
 
 ## EEG-MI classification
 The model is based on [A novel approach of decoding EEG four-class motor imagery tasks via scout ESI and CNN](https://iopscience.iop.org/article/10.1088/1741-2552/ab4af6/meta). This paper classifies the data into 4 catogories, I classifies the data into 3.
-[image1](https://github.com/siyi-wind/machine-learning-course-projects/blob/master/EEG-MI%20classification/Image/1.png)
+![image1](https://github.com/siyi-wind/machine-learning-course-projects/blob/master/EEG-MI%20classification/Image/1.png)
