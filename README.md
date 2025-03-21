@@ -11,4 +11,6 @@ The model is based on [A novel approach of decoding EEG four-class motor imagery
 
 EEG Imaginary raw data is from [here](https://archive.physionet.org/pn4/eegmmidb/)
 
-my data (has been preprocessed) is from [here](https://github.com/siyi-wind/machine-learning-course-projects/blob/master/EEG-MI%20classification/Data.zip)
+My data (has been preprocessed) is from [here](https://github.com/siyi-wind/machine-learning-course-projects/blob/master/EEG-MI%20classification/Data.zip)
+
+Useful links: [EEG DL library](https://github.com/SuperBruceJia/EEG-DL)
